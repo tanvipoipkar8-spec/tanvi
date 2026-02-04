@@ -1,2 +1,2 @@
 # machine learning
-https://github.com/tanvipoipkar8-spec/tanvi.git
+This is SEPM practical no. 3 of roll id. 464
